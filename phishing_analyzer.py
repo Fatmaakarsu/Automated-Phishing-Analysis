@@ -446,7 +446,7 @@ def process_submission(form_response):
 
                         # FleetDM API URL: Endpoint Used to List Computers
                         api_url = "https://t9b8e9e0a.sandbox.fleetdm.com/api/v1/fleet/hosts"
-                        api_token = "RbTIEVJJIEr7Xb7CTK6jhVk4+TzDf4ue7X151/5PrRtA1kA82JXlsR5WLkJTBCbKpsOQj3hQSaxRAPsKI0GNVg=="
+                        api_token = "YOUR_API_TOKEN"
 
                         # Header for FleetDM API Request
                         headers = {
